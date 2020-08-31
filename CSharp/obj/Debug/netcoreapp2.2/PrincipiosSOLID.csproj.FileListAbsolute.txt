@@ -1,0 +1,11 @@
+C:\Users\ferca\source\repos\PrincipiosSOLID\bin\Debug\netcoreapp2.2\PrincipiosSOLID.deps.json
+C:\Users\ferca\source\repos\PrincipiosSOLID\bin\Debug\netcoreapp2.2\PrincipiosSOLID.runtimeconfig.json
+C:\Users\ferca\source\repos\PrincipiosSOLID\bin\Debug\netcoreapp2.2\PrincipiosSOLID.runtimeconfig.dev.json
+C:\Users\ferca\source\repos\PrincipiosSOLID\bin\Debug\netcoreapp2.2\PrincipiosSOLID.dll
+C:\Users\ferca\source\repos\PrincipiosSOLID\bin\Debug\netcoreapp2.2\PrincipiosSOLID.pdb
+C:\Users\ferca\source\repos\PrincipiosSOLID\obj\Debug\netcoreapp2.2\PrincipiosSOLID.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\PrincipiosSOLID\obj\Debug\netcoreapp2.2\PrincipiosSOLID.csproj.CoreCompileInputs.cache
+C:\Users\ferca\source\repos\PrincipiosSOLID\obj\Debug\netcoreapp2.2\PrincipiosSOLID.AssemblyInfoInputs.cache
+C:\Users\ferca\source\repos\PrincipiosSOLID\obj\Debug\netcoreapp2.2\PrincipiosSOLID.AssemblyInfo.cs
+C:\Users\ferca\source\repos\PrincipiosSOLID\obj\Debug\netcoreapp2.2\PrincipiosSOLID.dll
+C:\Users\ferca\source\repos\PrincipiosSOLID\obj\Debug\netcoreapp2.2\PrincipiosSOLID.pdb
