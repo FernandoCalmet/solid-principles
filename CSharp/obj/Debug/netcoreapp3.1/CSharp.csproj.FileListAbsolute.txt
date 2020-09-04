@@ -1,0 +1,13 @@
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
