@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj": {}
+    "f:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "F:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj": {
+    "f:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "f:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "F:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj",
+        "projectPath": "f:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj",
         "packagesPath": "C:\\Users\\ferca\\.nuget\\packages\\",
-        "outputPath": "F:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\obj\\",
+        "outputPath": "f:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -43,6 +43,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0-preview.8.20407.11, )"
+            },
             "Serilog.Sinks.File": {
               "target": "Package",
               "version": "[5.0.0-dev-00887, )"

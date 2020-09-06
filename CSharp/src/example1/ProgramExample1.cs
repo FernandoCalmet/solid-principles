@@ -1,3 +1,6 @@
+using CSharp.src.example1.dip;
+using Microsoft.Extensions.DependencyInjection;
+
 namespace CSharp.src.example1
 {
     public class ProgramExample1
@@ -38,7 +41,16 @@ namespace CSharp.src.example1
         /* Principio de inversion de depedencias (DIP) */
         public void dipExample()
         {
-            //code
+            var serviceProvider = new ServiceCollection()
+                .AddScoped<IAlmacenamiento, AlmacenamientoSQL>()
+                //.AddScoped<ILogging, Logging>()
+                .AddScoped<DBRepository>()
+                .AddScoped<Cache>()
+                .AddScoped<ArticulosServicio>()
+                .BuildServiceProvider();
+
+            var articuloServicio = serviceProvider.GetService<ArticulosServicio>();
+            articuloServicio.ConsultarArticulo("Prueba");
         }
     }
 }

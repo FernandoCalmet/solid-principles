@@ -13,6 +13,7 @@ namespace CSharp
             example1.ocpExample();
             example1.lspExample();
             example1.ispExample();
+            example1.dipExample();
             //Example 2
             ProgramExample2 example2 = new ProgramExample2();
             example2.srpExample();

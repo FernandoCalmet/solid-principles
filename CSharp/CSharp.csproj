@@ -5,5 +5,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Serilog.Sinks.File" Version="5.0.0-dev-00887"/>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.0-preview.8.20407.11"/>
   </ItemGroup>
 </Project>

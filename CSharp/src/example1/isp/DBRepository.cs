@@ -10,7 +10,7 @@ namespace CSharp.src.example1.isp
         public string Leer(string titulo)
         {
             //db query code
-            return titulo;
+            return "ejemplo" + titulo;
         }
     }
 }

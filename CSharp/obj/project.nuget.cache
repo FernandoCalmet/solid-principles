@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yJZ7fmk475OQGXiWzpYmv6xix7DnTLuWEs2T3DUU6K6JdXMsY7uWW8vVk0xq+G69AyXAfuxQcGeFPTcXx6X70g==",
+  "dgSpecHash": "G+YFW6DbmIOIdngtGpjhEkECCq4bQiPx4HFDn5a6DQFdYf2tZBZpi9qypjKTQKWnYF4YqnHEn7PgQjVwNw1Dhw==",
   "success": true,
-  "projectFilePath": "F:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj",
+  "projectFilePath": "f:\\FERNANDOCALMET\\Github\\FernandoCalmet\\SOLID-principles\\CSharp\\CSharp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ferca\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\ferca\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
     "C:\\Users\\ferca\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512",
     "C:\\Users\\ferca\\.nuget\\packages\\serilog.sinks.file\\5.0.0-dev-00887\\serilog.sinks.file.5.0.0-dev-00887.nupkg.sha512"
   ],

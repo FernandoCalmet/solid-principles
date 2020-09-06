@@ -1,4 +1,4 @@
-namespace CSharp.src.example1.lsp
+namespace CSharp.src.example1.dip
 {
     public class DBRepository
     {
