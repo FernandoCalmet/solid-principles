@@ -1,16 +1,16 @@
 using System.IO;
 
-namespace CSharp.src.example1.srp
+namespace CSharp.src.example1.ocp
 {
     public class Almacenamiento
     {
         string path = "C:/temp";
-        public void EscribirFichero(string titulo, string contenido)
+        public virtual void EscribirFichero(string titulo, string contenido)
         {
             File.WriteAllText($"{path}/{titulo}.txt", contenido);
         }
 
-        public string LeerFichero(string titulo)
+        public virtual string LeerFichero(string titulo)
         {
             return File.ReadAllText($"{path}/{titulo}.txt");
         }

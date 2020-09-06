@@ -1,4 +1,5 @@
-﻿using CSharp.src.example2;
+﻿using CSharp.src.example1;
+using CSharp.src.example2;
 
 namespace CSharp
 {
@@ -7,7 +8,7 @@ namespace CSharp
         static void Main(string[] args)
         {
             //Example 1
-            ProgrammExample1 example1 = new ProgrammExample1();
+            ProgramExample1 example1 = new ProgramExample1();
             example1.srpExample();
             //Example 2
             ProgramExample2 example2 = new ProgramExample2();

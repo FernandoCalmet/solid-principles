@@ -11,3 +11,6 @@ F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcor
 F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
 F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
 F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\Serilog.dll
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+F:\FERNANDOCALMET\Github\FernandoCalmet\SOLID-principles\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CopyComplete

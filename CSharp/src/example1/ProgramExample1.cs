@@ -5,14 +5,18 @@ namespace CSharp.src.example1
         /* Principio de responsabilidad unica (SRP) */
         public void srpExample()
         {
-            srp.ArticulosServicio servicioArticulos = new srp.ArticulosServicio("Manzanas, Platanos, Naranjas", "Caja de Frutas");
+            srp.ArticulosServicio servicioArticulos = new srp.ArticulosServicio();
+            servicioArticulos.GuardarArticulo("Manzanas, Platanos, Naranjas", "Caja de Frutas");
             servicioArticulos.ConsultarArticulo("Caja de Frutas");
         }
 
         /* Principio de abierto y cerrado (OCP) */
         public void ocpExample()
         {
-            //code
+            ocp.ILogger loggerDB = new ocp.DatabaseLogger();
+            ocp.ArticulosServicio servicioArticulos = new ocp.ArticulosServicio(loggerDB);
+            servicioArticulos.GuardarArticulo("Lechugas, Zanahorias, Tomates", "Caja de Verduras");
+            servicioArticulos.ConsultarArticulo("Caja de Verduras");
         }
 
         /* Principio de sustitucion de Liskov (LSP) */

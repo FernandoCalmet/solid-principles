@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace CSharp.src.example1.srp
+namespace CSharp.src.example1.ocp
 {
     public class Cache
     {
