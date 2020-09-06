@@ -6,7 +6,7 @@ namespace CSharp.src.example1
         public void srpExample()
         {
             srp.ArticulosServicio servicioArticulos = new srp.ArticulosServicio();
-            servicioArticulos.GuardarArticulo("Manzanas, Platanos, Naranjas", "Caja de Frutas");
+            servicioArticulos.GuardarArticulo("Manzana, Platano, Naranja", "Caja de Frutas");
             servicioArticulos.ConsultarArticulo("Caja de Frutas");
         }
 
@@ -15,14 +15,16 @@ namespace CSharp.src.example1
         {
             ocp.ILogger loggerDB = new ocp.DatabaseLogger();
             ocp.ArticulosServicio servicioArticulos = new ocp.ArticulosServicio(loggerDB);
-            servicioArticulos.GuardarArticulo("Lechugas, Zanahorias, Tomates", "Caja de Verduras");
+            servicioArticulos.GuardarArticulo("Lechuga, Zanahoria, Tomate", "Caja de Verduras");
             servicioArticulos.ConsultarArticulo("Caja de Verduras");
         }
 
         /* Principio de sustitucion de Liskov (LSP) */
         public void lspExample()
         {
-            //code
+            lsp.ArticulosServicio servicioArticulos = new lsp.ArticulosServicio();
+            servicioArticulos.GuardarArticulo("Jugo de Naranja, Cocacola, Fanta", "Caja de Bebidas");
+            servicioArticulos.ConsultarArticulo("Caja de Bebidas");
         }
 
         /* Principio de segregacion de interface (ISP) */

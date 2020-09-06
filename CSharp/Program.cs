@@ -10,6 +10,8 @@ namespace CSharp
             //Example 1
             ProgramExample1 example1 = new ProgramExample1();
             example1.srpExample();
+            example1.ocpExample();
+            example1.lspExample();
             //Example 2
             ProgramExample2 example2 = new ProgramExample2();
             example2.srpExample();
