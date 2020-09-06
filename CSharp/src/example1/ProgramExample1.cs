@@ -30,7 +30,9 @@ namespace CSharp.src.example1
         /* Principio de segregacion de interface (ISP) */
         public void ispExample()
         {
-            //code
+            isp.ArticulosServicio servicioArticulos = new isp.ArticulosServicio();
+            servicioArticulos.GuardarArticulo("Camisa, Pantalon, Chaqueta", "Caja de Ropa");
+            servicioArticulos.ConsultarArticulo("Caja de Ropa");
         }
 
         /* Principio de inversion de depedencias (DIP) */
