@@ -1,4 +1,4 @@
-package srp.example1;
+package Java.srp.example1;
 
 /**
  *
