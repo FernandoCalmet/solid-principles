@@ -1,4 +1,4 @@
-package dip.example2;
+package Java.dip.example2;
 
 /**
  *

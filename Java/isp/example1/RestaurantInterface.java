@@ -1,4 +1,4 @@
-package isp.example1;
+package Java.isp.example1;
 
 /**
  *

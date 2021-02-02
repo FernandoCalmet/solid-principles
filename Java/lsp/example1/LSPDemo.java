@@ -1,4 +1,4 @@
-package lsp.example1;
+package Java.lsp.example1;
 
 /**
  *

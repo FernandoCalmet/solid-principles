@@ -1,4 +1,4 @@
-package ocp.example1;
+package Java.ocp.example1;
 
 /**
  *

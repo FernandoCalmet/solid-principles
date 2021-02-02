@@ -1,4 +1,4 @@
-package isp.example1;
+package Java.isp.example1;
 
 public class OnlineClientImpl implements RestaurantInterface {
     public void acceptOnlineOrder() {
