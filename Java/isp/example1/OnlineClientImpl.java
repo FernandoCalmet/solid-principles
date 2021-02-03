@@ -1,5 +1,9 @@
 package Java.isp.example1;
 
+/**
+ *
+ * @author Fernando Calmet <https://github.com/FernandoCalmet>
+ */
 public class OnlineClientImpl implements RestaurantInterface {
     public void acceptOnlineOrder() {
         // logic for placing online order
